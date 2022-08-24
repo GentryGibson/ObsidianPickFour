@@ -1,9 +1,8 @@
 # Pick Four Goal Tracking System in Obsidian
 ![Pick Four Goal Tracking System in Obsidian|150](https://imgpile.com/images/TdjXpN.png)
 
-This is the sample vault that I used to create the Pick Four goal-tracking system in Obsidian.md.
+This is the sample vault that I used to create the Pick Four goal-tracking system in Obsidian.md. Check out the [comprehensive tutorial](https://thebuccaneersbounty.wordpress.com/2022/08/24/how-to-use-pick-four-to-track-goals-and-habits-in-obsidian/) on how to set up this vault in Obsidian.
 
-Link to the tutorial will be published shortly!
 
 # How to Download
 1. Click on [Releases section](https://github.com/GentryGibson/ObsidianPickFour/releases/tag/1.0) to take you to the download link.
